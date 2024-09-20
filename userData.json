@@ -1,0 +1,13 @@
+{
+  "balance": 700,
+  "expenses": [
+    {
+      "subject": "Narai",
+      "description": "",
+      "category": "Food",
+      "date": "2024-09-20",
+      "expense": 10,
+      "id": 1726804617493
+    }
+  ]
+}
